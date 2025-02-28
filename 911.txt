@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GFL: Первая анимационная метавселенная</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        header, footer {
+            background: #007bff;
+            color: white;
+            padding: 10px 0;
+        }
+        .nav-links {
+            list-style: none;
+            padding: 0;
+        }
+        .nav-links li {
+            display: inline;
+            margin: 0 15px;
+        }
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+        }
+        .container {
+            max-width: 600px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: auto;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#about">О нас</a></li>
+                <li><a href="#features">Особенности</a></li>
+                <li><a href="#community">Сообщество</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <div class="container">
+            <h1>GFL: Первая анимационная метавселенная</h1>
+            <p>Добро пожаловать в мир GFL! Это место, где анимация, NFT и цифровая собственность сливаются в уникальную метавселенную.</p>
+            
+            <h2 id="features">Что делает нас особенными?</h2>
+            <ul>
+                <li>🚀 Анимационная метавселенная: исследуй миры, взаимодействуй с персонажами</li>
+                <li>💎 NFT-доли: реальная ценность владения цифровыми активами</li>
+                <li>🎨 Цифровая студия: создавай, вдохновляйся и монетизируй контент</li>
+            </ul>
+            
+            <h2 id="community">Присоединяйся прямо сейчас!</h2>
+            <a href="https://discord.gg/4RsjRGPz" class="btn">🔥 Войти в сообщество 🔥</a>
+        </div>
+    </main>
+    
+    <footer>
+        <p>📩 Email: <a href="mailto:WGFLW@proton.me" style="color: white;">WGFLW@proton.me</a></p>
+        <p>📌 Facebook: <a href="https://www.facebook.com/groups/1803182203812917/?ref=share&mibextid=WaXdOe" style="color: white;">GFL Community</a></p>
+        <p>📢 Telegram: <a href="https://t.me/GFLGROUPP" style="color: white;">@GFLGROUPP</a></p>
+    </footer>
+</body>
+</html>
